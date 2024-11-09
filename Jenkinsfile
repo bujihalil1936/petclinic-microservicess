@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        // Ortam değişkenlerini burada tanımlayabilirsinizzzz.
+        // Ortam değişkenlerini burada tanımlayabilirsiniz.
     }
 
     stages {
